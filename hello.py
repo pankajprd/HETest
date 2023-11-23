@@ -1,5 +1,5 @@
-print ("ABC")
-print ("ABC")
-print ("ABC")
+print ("DEF")
+print ("DEF")
+print ("DEF")
 print ("ABC")
 print ("ABC")
