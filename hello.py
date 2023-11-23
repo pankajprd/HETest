@@ -1,4 +1,4 @@
-print ("DEF")
+print ("ABC")
 print ("DEF")
 print ("DEF")
 print ("ABC")
