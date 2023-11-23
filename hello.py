@@ -1,4 +1,4 @@
-print ("ABC")
+print ("XYZ")
 print ("DEF")
 4233434343424
 3432423234342
@@ -7,5 +7,5 @@ print ("DEF")
 3423424
 3423424253252352
 print ("DEF")
-print ("ABC")
-print ("ABC")
+print ("XYZ")
+print ("XYZ")
